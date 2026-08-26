@@ -12,7 +12,7 @@
 1. Скачайте [InvokerOverlay.exe](https://github.com/Ghostergg/invoker-overlay/releases/latest/download/InvokerOverlay.exe)
 2. Запустите — конфиг GSI установится в Dota 2 автоматически
 3. Добавьте `-gamestateintegration` в параметры запуска Dota 2 (Steam → свойства → параметры запуска)
-4. Нажмите «Триал 7 дней» или введите ключ — [оформить подписку](https://boosty.to/ghostergg)
+4. Нажмите «Триал 7 дней» или введите ключ — [оформить подписку](t.me/vokerhelper)
 
 ## Требования
 Windows 10/11, Dota 2.
