@@ -9,7 +9,7 @@
 - Перетаскивание, прозрачность, трей, триал 7 дней
 
 ## Установка
-1. Скачайте Архив (Invoker Overlay.zip)
+1. Скачайте [Архив](https://github.com/Ghostergg/invoker-overlay/releases/download/v1.0.0/Invoker.Overlay.zip)
 2. Распакуйте архив в любую папку
 3. Запустите — конфиг GSI установится в Dota 2 автоматически
 4. Добавьте `-gamestateintegration` в параметры запуска Dota 2 (Steam → свойства → параметры запуска)
